@@ -10,10 +10,12 @@
 
   You should see five [OK]s. This will update the .hex file needed to flash your keyboard.
   
-6. Run QMK Toolbox, this is not an installed software, so it is likely to be in the downloads folder.
-7. Check Auto-Flash box
-8. Click Open and select to the .hex file updated in step 4, it is located in `C:\Users\benja\qmk_firmware\.build`. Check the date and time of the .hex, it should be current.
-   <img width="937" height="204" alt="image" src="https://github.com/user-attachments/assets/c592b795-9105-4499-ad0c-f7b40d2d398e" />
+6. Run **QMK Toolbox**, this is not an installed software, so it is likely to be in the downloads folder.
+7. Check Auto-Flash box tick box.
+8. Select `ATmega34U4`.
+9. Click Open and select to the .hex file updated in step 4, it is located in `C:\Users\benja\qmk_firmware\.build`. Check the date and time of the .hex, it should be recently built.
+   <img width="945" height="215" alt="image" src="https://github.com/user-attachments/assets/9eb13e03-53b6-42bc-b6ff-99cc27aecf1a" />
+
 10. Put your keyboard into flash mode, this is the `QK_BOOT` macro in your keymap that you flashed previously.
     <img width="950" height="650" alt="image" src="https://github.com/user-attachments/assets/75afdcbd-c5ed-48a6-be7b-0767d800903f" />
 11. Create a copy of the keymap into `C:\Users\benja\OneDrive\Onedrive\Human Input Devices\Keyboard\QMK Development\Keychron Q1V1 Keymap Archive`
