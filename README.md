@@ -19,3 +19,18 @@
 10. Put your keyboard into flash mode, this is the `QK_BOOT` macro in your keymap that you flashed previously.
     <img width="950" height="650" alt="image" src="https://github.com/user-attachments/assets/75afdcbd-c5ed-48a6-be7b-0767d800903f" />
 11. Create a copy of the keymap into `C:\Users\benja\OneDrive\Onedrive\Human Input Devices\Keyboard\QMK Development\Keychron Q1V1 Keymap Archive`
+
+
+
+
+---
+
+**Note: when upload macro name, you have to updated in three places!!**
+
+## in case your keychron keyboard gets soft bricked, do this
+* unplug your keyboard
+* take off the spacebar cap
+* hold down the reset button found under the spacebar cap
+* re-connect the usb cable
+* this will put the keyboard into flash mode.
+
