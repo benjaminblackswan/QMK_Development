@@ -10,7 +10,7 @@
 
   You should see five [OK]s. This will update the .hex file needed to flash your keyboard.
   
-6. Run **QMK Toolbox**, this is not an installed software, so it is likely to be in the downloads folder.
+6. Run **QMK Toolbox**, located at `C:\Users\benja\OneDrive\Onedrive\Human Input Devices\Keyboard\QMK Development`, it is not an installed software, run directly from file.
 7. Check Auto-Flash box tick box.
 8. Select `ATmega34U4`.
 9. Click Open and select to the .hex file updated in step 4, it is located in `C:\Users\benja\qmk_firmware\.build`. Check the date and time of the .hex, it should be recently built.
