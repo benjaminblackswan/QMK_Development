@@ -34,3 +34,11 @@
 * re-connect the usb cable
 * this will put the keyboard into flash mode.
 
+## No Driver Error in QMK Toolbox
+
+If you get No Driver Assigned error 
+<img width="850" height="320" alt="image" src="https://github.com/user-attachments/assets/8e6961bf-4423-4db4-83fb-658e1d9f0509" />
+
+Then Go to Tools > Install Drivers
+
+<img width="258" height="314" alt="image" src="https://github.com/user-attachments/assets/fdc505f9-6ea6-493f-80f8-2aeefa4e1028" />
